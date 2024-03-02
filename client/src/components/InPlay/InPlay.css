@@ -1,0 +1,57 @@
+.bets_section_inplay {
+  display: flex;
+    flex-direction: column;
+  margin-right: -15px;
+  margin-left: -15px;
+  width: 74%;
+}
+.bets_section_inplay_dashboard {
+  margin: 10px 0;
+  border-left: 1px solid #3b5160;
+  border-radius: 5px;
+  display: flex;
+  padding: 0 15px;
+  height: 50px;
+  width: 600px;
+}
+.bets_section_inplay_subtabs {
+  background-color: #fff;
+  border-right: 1px solid #3b5160;
+  border-bottom: 1px solid #3b5160;
+  border-top: 1px solid #3b5160;
+  color: #3b5160;
+  font-size: 13px;
+  line-height: 27px;
+  display: block;
+  text-align: center;
+  font-weight: 700;
+  width: 200px;
+}
+.bets_section_inplay_game_name_container{
+    background: linear-gradient(-180deg, #2E4B5E 0%, #243A48 82%);
+    height: 30px;
+}
+.bets_Section_inplay_events{
+    margin-left: 29px;
+}
+.bets_section_inplay_game_headbar{
+  display: flex;
+  width: 100%;
+  height: 40px;
+  background: gray;
+  justify-content: flex-end;
+  align-items: center;
+}
+.bets_section_inplay_game_content{
+margin-right: 156px;
+}
+.bets_Section_inplay_events_soccerr_matches_details{
+  display: flex;
+}
+.bets_Section_inplay_events_soccerr_matches_details_team{
+  color: #09437f;
+  font-weight: 800;
+}
+.team_space{
+  margin-left: 20px;
+}

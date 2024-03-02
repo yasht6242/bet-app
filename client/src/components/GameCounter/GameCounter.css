@@ -1,0 +1,59 @@
+.bet_app_game_counter_container {
+  width: 100%;
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  flex-direction: column;
+}
+.bet_app_game_counter_container_image img {
+  height: 317px !important;
+}
+
+.cricket_tab_news_content {
+  display: flex;
+}
+.cricket_tab_news_one_x_two_line {
+  display: flex;
+}
+.bet_app_game_counter_cotainer_information_display_highlights {
+  background: linear-gradient(-180deg,#f5d679 0, #f5d679 100%);
+  color: black;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 25px;
+  padding-left: 10px;
+  margin-bottom: 0;
+}
+.game-menu-tab .nav{
+  background: linear-gradient(-180deg,#f5d679 0, #f5d679 100%);
+}
+.nav-tabs{
+  border-bottom: 1px solid #c8ced3;
+}
+.nav{
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.ul{
+  margin-top: 0;
+}
+.game-menu-tab .table th{
+  padding: 0;
+  font-size: 11px;
+}
+.game-menu-tab .table td, .game-menu-tab .table th{
+  border-top: none;
+    padding: 3px 0 3px 10px;
+    vertical-align: middle;
+}
+.table thead th{
+  border-bottom: 2px solid #c8ced3;
+}

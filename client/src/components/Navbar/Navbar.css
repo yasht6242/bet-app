@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .navbar__list {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar__item {
+    margin-right: 10px;
+  }
+  
+  .navbar__item:last-child {
+    margin-right: 0;
+  }
+  
+  .navbar__item--right {
+    margin-left: auto;
+  }
+  
+  .navbar__item a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    transition: background-color 0.3s;
+  }
+  
+  .navbar__item a:hover {
+    background-color: #555;
+  }
+  

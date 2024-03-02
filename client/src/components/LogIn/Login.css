@@ -1,0 +1,7 @@
+.bet_project_head_main_exposure_container {
+  position: relative;
+  margin-left: auto !important;
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+}

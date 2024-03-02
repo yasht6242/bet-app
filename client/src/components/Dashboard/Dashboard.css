@@ -1,0 +1,40 @@
+.betproject_dashboard_container {
+  position: relative;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+  border-bottom: 1px solid #c8ced3;
+}
+.bet_project_logo_search_main_exposure_reload_myaccount {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+.bet_project_head_logo {
+  display: block;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bet_project_head_logo_image {
+  width: 160px;
+  height: 68px;
+}
+.bet_project_head_logo_image_text {
+  cursor: pointer;
+  text-decoration: none;
+  background-color: transparent;
+  color: var(--primary);
+  vertical-align: middle;
+  border-style: none;
+}
+
+
+.bet_project_head_myaccount {
+ 
+}
